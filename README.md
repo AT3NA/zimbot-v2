@@ -53,6 +53,7 @@ npm start
 
 echo scan the qr code and enjoy bot
 
+```
 
 
 ### ⚠️ Warning! 
