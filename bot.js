@@ -43,7 +43,7 @@ global.ownernma = 'LEVI' //owner name
 global.packname = 'ASUNA' //sticker package name
 global.author = 'By ASUNA' //sticker author name
 global.sessionName = 'session' //session name
-global.prefa = ['.'.'.'.'.'.''] //prefix
+global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
 global.mess = {
     success: 'Done!',
