@@ -33,20 +33,20 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['923008354428',''] //owner number +923008354428
-global.pemilik = ['923008354428'] //owner number +923008354428
-global.premium = ['923008354428'] //premium number +923008354428
-global.pengguna = 'TJ' //username
-global.footer = 'JOJO BOT INC'
-global.botnma = 'JOJO BOT INC' //bot name
-global.ownernma = 'Malik Jawad' //owner name
-global.packname = 'TJ' //sticker package name
-global.author = 'By TJ' //sticker author name
+global.owner = ['917407138389',''] //owner number 
+global.pemilik = ['917407138389'] //owner number 
+global.premium = ['917407138389'] //premium number
+global.pengguna = 'ASUNA' //username
+global.footer = 'ASUNA INC'
+global.botnma = 'ASUNA INC' //bot name
+global.ownernma = 'LEVI' //owner name
+global.packname = 'ASUNA' //sticker package name
+global.author = 'By ASUNA' //sticker author name
 global.sessionName = 'session' //session name
-global.prefa = ['#','!','/',''] //prefix
+global.prefa = ['.'.'.'.'.'.''] //prefix
 global.sp = '🔵' //sp
 global.mess = {
-    success: 'Takaenda Done!',
+    success: 'Done!',
     admin: '*This feature is only for admin!*',
     botAdmin: '*TJ bot  must be admin first!*',
     owner: '*this feature is only for TJ bot owner*',
